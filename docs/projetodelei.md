@@ -182,8 +182,7 @@ adolescentes no âmbito de seus serviços.
 mecanismos confiáveis de verificação de idade e identidade dos usuários.
 
 § 2º Os dados coletados para a verificação de que trata o § 1º deste artigo
-poderão ser utilizados unicamente para esta finalidade, vedado seu tratamento para qualquer
-outro propósito.
+poderão ser utilizados unicamente para esta finalidade, vedado seu tratamento para qualquer outro propósito.
 
 ## <center>CAPÍTULO III</center>
 ### <center>DO CONTROLE PARENTAL</center>
