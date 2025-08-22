@@ -1,0 +1,1 @@
+Uma iniciativa politicamente independente que visa informar sobre as eventuais violações de privacidade sob novas regras digitais aprovadas pela Câmara dos Deputados, e sugerir serviços e tecnologias que não requerem seus dados pessoais.
